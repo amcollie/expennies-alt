@@ -1,0 +1,6 @@
+.vscode
+.env
+*.pdf
+vendor
+node_modules
+.pnpm-store
